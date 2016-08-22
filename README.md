@@ -1,2 +1,2 @@
 # mcs-sdsmt.github.io
-Pages site for the McLaury MCS department clubs
+GitHub Pages site for the McLaury MCS department student organizations
