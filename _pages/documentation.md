@@ -15,3 +15,5 @@ Documentation for:
 * Lab Access
 * Editing this site
 * Accessing GitHub organization accounts / team email accounts -- this site is public...
+* Code useful for all teams
+  - Tablet touchpad issues, etc
