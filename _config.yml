@@ -1,7 +1,7 @@
 # Site settings
 title: SDSMT MCS clubs
 email: mcs.sdsmt@gmail.com
-description: This is the webpage for the various student organizations of the Basement of McLaury (MCS Dept.)
+description: This is the webpage for the various student organizations of the MCS department
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username:
 github_username: mcs-sdsmt
